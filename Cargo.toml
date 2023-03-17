@@ -8,21 +8,37 @@ edition = "2021"
 [dependencies]
 
 [[bin]]
-name = "exercise1"
+name = "exercise1-1"
 path = "src/chap1/exercise1.rs"
 
 [[bin]]
-name = "exercise2"
+name = "exercise1-2"
 path = "src/chap1/exercise2.rs"
 
 [[bin]]
-name = "exercise3"
+name = "exercise1-3"
 path = "src/chap1/exercise3.rs"
 
 [[bin]]
-name = "exercise4"
+name = "exercise1-4"
 path = "src/chap1/exercise4.rs"
 
 [[bin]]
-name = "exercise5"
+name = "exercise1-5"
 path = "src/chap1/exercise5.rs"
+
+[[bin]]
+name = "exercise2-1"
+path = "src/chap2/exercise1.rs"
+
+[[bin]]
+name = "exercise2-2"
+path = "src/chap2/exercise2.rs"
+
+[[bin]]
+name = "exercise2-3"
+path = "src/chap2/exercise3.rs"
+
+[[bin]]
+name = "exercise2-4"
+path = "src/chap2/exercise4.rs"
