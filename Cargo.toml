@@ -6,3 +6,23 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+
+[[bin]]
+name = "exercise1"
+path = "src/chap1/exercise1.rs"
+
+[[bin]]
+name = "exercise2"
+path = "src/chap1/exercise2.rs"
+
+[[bin]]
+name = "exercise3"
+path = "src/chap1/exercise3.rs"
+
+[[bin]]
+name = "exercise4"
+path = "src/chap1/exercise4.rs"
+
+[[bin]]
+name = "exercise5"
+path = "src/chap1/exercise5.rs"
